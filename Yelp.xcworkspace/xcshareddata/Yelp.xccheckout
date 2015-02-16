@@ -6,29 +6,33 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>CAB5429E-51BF-4714-91EF-C3ED1A8E5C02</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Yelp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>7EFE5754511291571F5EB74097A7F08C1A8D6BC1</key>
+		<key>937064D67F0CE1BDCE1843758E2A9E166B02D4FB</key>
 		<string>https://github.com/huqiang1234/Yelp.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Yelp.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>7EFE5754511291571F5EB74097A7F08C1A8D6BC1</key>
-		<string>Yelp/</string>
+		<key>937064D67F0CE1BDCE1843758E2A9E166B02D4FB</key>
+		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/huqiang1234/Yelp.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7EFE5754511291571F5EB74097A7F08C1A8D6BC1</string>
+	<string>937064D67F0CE1BDCE1843758E2A9E166B02D4FB</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>7EFE5754511291571F5EB74097A7F08C1A8D6BC1</string>
+			<string>937064D67F0CE1BDCE1843758E2A9E166B02D4FB</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Yelp</string>
 		</dict>
